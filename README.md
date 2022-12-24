@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+✨✨✨✨✨✨✨
+
+Click here to Check [website](https://deep871xd.github.io/netflix-clone-ui/)
+
+✨✨✨✨✨✨✨
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
